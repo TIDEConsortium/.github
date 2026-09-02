@@ -219,8 +219,8 @@ individuals. Inhibition with a broadband carrier is expected to be similar
 between groups.
 
 Unlike classical GPIAS, which indexes the motor startle reflex, this
-implementation measures the **cortical** response — GPIAS is regulated at the
-level of the auditory cortex, and cortical responses may index inhibition more
+implementation measures the **cortical** response. GPIAS is regulated at the
+level of the auditory cortex, and cortical responses may capture inhibition more
 accurately than motor reflex measures.
 
 **Stimuli.** Delivered binaurally through Etymotic ER2 ear inserts; background
@@ -304,9 +304,10 @@ stops immediately if a participant reports unacceptable discomfort. All adverse
 events are recorded with severity and relatedness and reported per local
 ethics/IRB procedures.
 
-Pilot testing indicated that 90 dB pulses are tolerated by individuals with and
+Pilot cGPIAS testing indicated that 90 dB pulses are tolerated by individuals with and
 without tinnitus (~n=20), giving ERP amplitudes similar to 95 dB pulses, and that
-60 dB carriers are as effective as 65 dB and more comfortable — hence 90 dB
+60 dB carriers are as effective as 65 dB and more comfortable
+(Shabestari et al., JARO. 2025. 26(5):515–529. doi: 10.1007/s10162-025-00999-w). Hence, TIDE tested 90 dB
 pulses in a 60 dB carrier.
 
 ## Data management
@@ -325,7 +326,7 @@ Variables collected for analysis:
 2. **Clinical** — case/control status, tinnitus duration and characteristics from
    ESIT-SQ, treatment history and stability, MoCA, HQ, THI, TFI, HADS, PSQ-30,
    VAS ratings
-3. **Audiological** — pure-tone thresholds including high frequencies, derived
+3. **Audiological** — pure-tone thresholds including high frequencies where possible, derived
    hearing-loss indices, tinnitus pitch and loudness matching
 4. **Neurophysiological** — outcomes derived from EEG/MEG
 
@@ -367,7 +368,7 @@ git config core.hooksPath .githooks
 ## Funding
 
 Rainwater Charitable Foundation (#18340). CRC receives additional funding from
-the American Tinnitus Association — Objective diagnosis for tinnitus.
+the American Tinnitus Association.
 
 ## Citation
 
@@ -397,5 +398,5 @@ If you use material from this repository, please cite the protocol:
 
 ## Contact
 
-Christopher Cederroth, University Clinic of Tübingen — <!-- add email -->
-Sven Vanneste, Trinity College Dublin — sven.vanneste@tcd.ie
+Christopher Cederroth, University Clinic of Tübingen — christopher.cederroth[@]uni-tuebingen.de
+Sven Vanneste, Trinity College Dublin — sven.vanneste[@]tcd.ie
