@@ -5,11 +5,11 @@
 TIDE is a multicentre, prospective, case–control biomarker study developing and
 validating objective neurophysiological markers for chronic constant tinnitus.
 It is funded by the Rainwater Charitable Foundation and coordinated at the
-University of Tübingen.
+Trinity College Dulin.
 
 ## The problem
 
-Tinnitus is diagnosed by self-report. There is no objective test — which
+Tinnitus is diagnosed by self-report. There is no objective test, which
 constrains clinical trials, obscures whether apparently similar patients share a
 mechanism, and makes treatment effects difficult to measure. TIDE asks whether
 central auditory processing differences can be measured directly, reliably
@@ -26,7 +26,7 @@ Case–control, seven international recruiting sites, harmonised protocol.
   HQ, HADS, PSQI and others)
 
 **Paradigms**
-- **GPIAS** — gap prepulse inhibition of the acoustic startle, testing whether
+- **cGPIAS** — cortical gap prepulse inhibition of the acoustic startle, testing whether
   the tinnitus percept fills the silent gap
 - **Auditory oddball with omission trials** — testing predictive processing and
   deviance detection
@@ -71,9 +71,8 @@ Rainwater Charitable Foundation.
 ## Contact
 
 Christopher Cederroth, Coordinating Investigator
-University of Tübingen — [add email]
+University of Tübingen — [christopher.cederroth[@]uni-tuebingen.de]
 
 ## Citation
 
-Please cite the relevant publication and the repository DOI. Each repository is
-archived on Zenodo at release.
+Vanneste S, Yasoda-Mohan A, Chen F, et alObjective data-driven personalised approach to diagnosis of chronic tinnitus: the Tinnitus Detection (TIDE) project – protocol for the identification and validation of a biomarker for tinnitus. BMJ Open 2026;16:e112788. doi: 10.1136/bmjopen-2025-112788
