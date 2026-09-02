@@ -1,4 +1,4 @@
-# TIDE — Tinnitus Detection
+# TIDE — Tinnitus Detection 
 
 **Protocol and umbrella repository for the Tinnitus Detection (TIDE) project.**
 
