@@ -54,23 +54,27 @@ Multicentre, prospective, case–control, experimental and patient-oriented.
 controls.** Target 40 cases and 40 controls per site. Cases and controls
 group-matched for sex, age and hearing loss post-recruitment.
 
-Sample size gives 80% power to detect a between-group difference at Cohen's
-*f* = 0.15 (small effect). Not longitudinal, so no attrition is anticipated.
-Prespecified confounders: age, sex, hearing loss, hyperacusis.
+Sample size. Target 40 cases and 40 controls per site across seven sites,
+giving 280 per group. The target was set by site-level feasibility rather than
+by an a priori power calculation, as no prior effect-size estimates existed for
+these paradigms. With 280 per group, a two-group comparison at α = 0.05
+(two-sided) has 80% power to detect d ≈ 0.24 (Cohen's f ≈ 0.12). The study is
+not longitudinal and no attrition is anticipated. Prespecified confounders:
+age, sex, hearing loss and hyperacusis.
 
 ## Sites
 
 | Site | Country | Principal Investigator |
 |---|---|---|
-| Tinnitus Clinics, University Hospital Regensburg | Germany | Berthold Langguth |
-| University Clinic of Tübingen | Germany | Christopher R Cederroth |
-| Brai3n clinic | Belgium | — |
+| University Hospital Regensburg | Germany | Berthold Langguth |
+| University Clinic of Tübingen | Germany | Christopher R. Cederroth |
+| Brai3n Clinic | Belgium | Dirk de Ridder |
 | Trinity College Dublin | Ireland | Sven Vanneste |
-| University of Zurich | Switzerland | Winfried Schlee |
+| University of Zurich | Switzerland | Patrick K.A. Neff |
 | University of Texas at Austin | USA | Julia Campbell |
-| University of Illinois Urbana-Champaign | USA | Fatima T Husain |
+| University of Illinois Urbana-Champaign | USA | Fatima T. Husain |
 
-Analysis is additionally supported by the Institute of Information and Process
+Analysis is additionally supported by Winfried Schlee at the Institute of Information and Process
 Management, Eastern Switzerland University of Applied Sciences, St Gallen.
 
 ## Ethics approvals
@@ -101,7 +105,6 @@ of Helsinki.
 - Able to understand, consent and participate
 - MoCA ≥ 26
 - Hyperacusis Questionnaire (HQ) ≤ 27
-- HADS < 14
 - Speaks Dutch, English or German (screening instruments are not validated in
   other languages)
 - If receiving tinnitus treatment, the regimen must be stable for ≥ 6 months
@@ -170,7 +173,7 @@ administer further instruments beyond this common battery.
 
 **Pure-tone audiometry.** Air-conduction thresholds in a sound-treated booth on
 a clinical audiometer calibrated to site standard, following otoscopy to confirm
-a clear ear canal. Thresholds at **0.5, 1, 2, 3, 4, 6, 8, 10 and 12 kHz**, with
+a clear ear canal. Thresholds at **0.5, 1, 2, 3, 4, 6, 8, 10 and 12.5 kHz**, with
 bone conduction where indicated, per British Society of Audiology procedures
 using a standard ascending method (10 dB down / 5 dB up), threshold defined as
 the lowest level eliciting responses on at least 50% of ascending trials.
